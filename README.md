@@ -14,7 +14,7 @@ We works on making more reliable servers apps and production level softwares
 -Full stack Web applications.
 -Utility tools
 
-**Tech Stack:** Pyhthon, C++ ,Java
+**Tech Stack:** Python, C++ ,Java 
 
 ## 📦 Installation
 
