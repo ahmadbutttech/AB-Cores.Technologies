@@ -34,18 +34,11 @@ Focused on **speed**, **reliability**, and **real-world production use**.
 ## 💻 Tech Stack
 
 *  Python
-*  C++
+*  C++/G++
 *  Java
 
 ---
 
-### 🔹 Python Backend Engine *(Coming Soon)*
-
-* Fast API handling
-* Scalable architecture
-* Real-time processing
-
----
 
 ## 📊 System Highlights
 
